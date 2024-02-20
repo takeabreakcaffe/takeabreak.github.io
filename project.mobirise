@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My",
-    "currentPage": "index.html",
+    "currentPage": "TAKEaBREAK.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -23,8 +23,8 @@
         "display7Size": 1.2,
         "display4Font": "IBM Plex Sans",
         "display4Size": 1.1,
-        "isRoundedButtons": false,
-        "underlinedLinks": false,
+        "isRoundedButtons": true,
+        "underlinedLinks": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
