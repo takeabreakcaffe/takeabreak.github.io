@@ -1123,24 +1123,6 @@ a {
     left: -1rem;
   }
 }
-.cid-um9KYMKwTA {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffb5b5;
-}
-.cid-um9KYMKwTA .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-um9KYMKwTA .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-um9KYMKwTA .text-wrapper {
-    padding: 0 2rem;
-  }
-}
 .cid-u4fXf3jKUX {
   padding-top: 10rem;
   padding-bottom: 6rem;
