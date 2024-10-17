@@ -771,22 +771,15 @@ a {
 .cid-u4NHoCLhpz {
   background-image: url("../../../assets/images/mbr-1920x1440.jpg");
 }
-.cid-uoNbck0Wus {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffb5b5;
-}
-.cid-uoNbck0Wus .row {
-  align-items: center;
+.cid-urrrvKZvNu {
+  background-image: url("../../../assets/images/20240126-1645142-2000x3001.jpeg");
 }
 @media (max-width: 991px) {
-  .cid-uoNbck0Wus .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-uoNbck0Wus .text-wrapper {
-    padding: 0 2rem;
+  .cid-urrrvKZvNu .mbr-section-title,
+  .cid-urrrvKZvNu .mbr-section-subtitle,
+  .cid-urrrvKZvNu .mbr-section-btn,
+  .cid-urrrvKZvNu .mbr-text {
+    text-align: center;
   }
 }
 .cid-u4fzQbfO1i {
