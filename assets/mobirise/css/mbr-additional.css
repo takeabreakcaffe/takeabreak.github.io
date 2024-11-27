@@ -1123,24 +1123,6 @@ a {
     left: -1rem;
   }
 }
-.cid-uuKiLoBLFY {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffb5b5;
-}
-.cid-uuKiLoBLFY .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-uuKiLoBLFY .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-uuKiLoBLFY .text-wrapper {
-    padding: 0 2rem;
-  }
-}
 .cid-u4fXf3jKUX {
   padding-top: 10rem;
   padding-bottom: 6rem;
@@ -1199,17 +1181,6 @@ a {
 }
 .cid-u4fXf3jKUX .item-subtitle {
   text-align: center;
-}
-.cid-urrrvKZvNu {
-  background-image: url("../../../assets/images/20240126-1645142-2000x3001.jpeg");
-}
-@media (max-width: 991px) {
-  .cid-urrrvKZvNu .mbr-section-title,
-  .cid-urrrvKZvNu .mbr-section-subtitle,
-  .cid-urrrvKZvNu .mbr-section-btn,
-  .cid-urrrvKZvNu .mbr-text {
-    text-align: center;
-  }
 }
 .cid-u4g3TSjVLZ {
   padding-top: 3rem;
@@ -1277,25 +1248,6 @@ a {
     padding-top: 2rem;
   }
 }
-.cid-ueTo3jBoBD {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/mbr-1920x1278.jpg");
-}
-.cid-ueTo3jBoBD .video-wrapper iframe {
-  width: 100%;
-}
-.cid-ueTo3jBoBD .mbr-section-title,
-.cid-ueTo3jBoBD .mbr-section-subtitle,
-.cid-ueTo3jBoBD .mbr-text {
-  text-align: center;
-}
-.cid-ueTo3jBoBD .mbr-text {
-  color: #e6c63b;
-}
-.cid-ueTo3jBoBD .mbr-section-title {
-  color: #e6c63b;
-}
 .cid-u4lpJ0yWHw {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1336,6 +1288,36 @@ a {
   text-align: center;
 }
 .cid-u4lpJ0yWHw P {
+  color: #e6c63b;
+}
+.cid-urrrvKZvNu {
+  background-image: url("../../../assets/images/20240126-1645142-2000x3001.jpeg");
+}
+@media (max-width: 991px) {
+  .cid-urrrvKZvNu .mbr-section-title,
+  .cid-urrrvKZvNu .mbr-section-subtitle,
+  .cid-urrrvKZvNu .mbr-section-btn,
+  .cid-urrrvKZvNu .mbr-text {
+    text-align: center;
+  }
+}
+.cid-ueTo3jBoBD {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-1920x1278.jpg");
+}
+.cid-ueTo3jBoBD .video-wrapper iframe {
+  width: 100%;
+}
+.cid-ueTo3jBoBD .mbr-section-title,
+.cid-ueTo3jBoBD .mbr-section-subtitle,
+.cid-ueTo3jBoBD .mbr-text {
+  text-align: center;
+}
+.cid-ueTo3jBoBD .mbr-text {
+  color: #e6c63b;
+}
+.cid-ueTo3jBoBD .mbr-section-title {
   color: #e6c63b;
 }
 .cid-u9NTtJQfyW {
