@@ -1123,6 +1123,24 @@ a {
     left: -1rem;
   }
 }
+.cid-uxtSstELVU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffb5b5;
+}
+.cid-uxtSstELVU .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-uxtSstELVU .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uxtSstELVU .text-wrapper {
+    padding: 0 2rem;
+  }
+}
 .cid-u4fXf3jKUX {
   padding-top: 10rem;
   padding-bottom: 6rem;
